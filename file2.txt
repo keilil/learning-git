@@ -1,2 +1,0 @@
-Menambah file2.txt
-Menambah baris file2.txt
